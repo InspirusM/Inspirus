@@ -1,0 +1,8 @@
+{
+  "bot_prefix": "i!",
+  "embed_color": "RANDOM",
+  "owners_id": [""], 
+  "env": {
+    "TOKEN": ""
+  } 
+}
